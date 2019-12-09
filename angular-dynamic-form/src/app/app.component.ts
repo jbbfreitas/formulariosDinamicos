@@ -98,7 +98,7 @@ export class AppComponent {
     },
     {
       type: 'checkbox',
-      label: 'Accept Terms',
+      label: 'Aceita os Termos?',
       name: 'term',
       value: true
     },
